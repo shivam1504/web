@@ -7,9 +7,6 @@ This is a Java web application built using **Struts2**, **JSP**, and **MySQL**. 
 ## Project Structure
 
 ```
-
-E:\Project\Languages\HTML\New folder\web
-│
 ├── jsp/
 │ ├── index.html
 │ ├── LoginSuccess.jsp
